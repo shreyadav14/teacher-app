@@ -1,5 +1,7 @@
 # Teacher App - Full Stack (CodeIgniter 4 + ReactJS)
-
+-Database
+-Frontend
+-Backend
 ## Requirements
 - PHP 8.x
 - Composer

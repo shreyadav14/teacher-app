@@ -1,6 +1,9 @@
+# ABOUT THIS PROJECT:
+It was assigned to me, for an internship, where i used what i know, and implemented my knowledge by this project.
+
 # Teacher App - Full Stack (CodeIgniter 4 + ReactJS)
 -Database
--Frontend
+- Basic Frontend
 -Backend
 ## Requirements
 - PHP 8.x
@@ -42,3 +45,5 @@
 - View Users datatable
 - View Teachers datatable
 - Protected routes
+
+

@@ -28,6 +28,8 @@ It was assigned to me, for an internship, where i used what i know, and implemen
 2. npm install
 3. npm run dev
 4. Open http://localhost:5173
+5. Add it to git hub
+   
 
 ## API Endpoints
 | Method | Endpoint | Auth Required |

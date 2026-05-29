@@ -49,3 +49,7 @@ It was assigned to me, for an internship, where i used what i know, and implemen
 - Protected routes
 
 
+Should i delete it, i don't know
+
+
+

@@ -1,5 +1,5 @@
 # ABOUT THIS PROJECT:
-It was assigned to me, for an internship, where i used what i know, and implemented my knowledge by this project. It contains Mysql and backend. So, teacher's table in database and some nodejs as backend.
+It was assigned to me, for an internship, where i used what i know, and implemented my knowledge by this project. It contains Mysql and backend. So, teacher's table in database and some node.js as backend.
 
 # Teacher App - Full Stack (CodeIgniter 4 + ReactJS)
 -Database
